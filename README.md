@@ -1,1 +1,1 @@
-# CIS25
+# CIS25 | Week 6: I already had VS Code installed, but it took longer than I'd like to admit to get all I needed for C++ installed. MSYS2 still gives me random errors when VS Code tries to find it, so I’m still figuring that out. All of week 6 homework should be in the file sharing its name. Please let me know if I'm doing this right. Happy Holidays!
