@@ -1,1 +1,1 @@
-# CIS25
+# CIS25: Week8 This week, I made a simple C++ bank account program using classes and file I/O. It starts at $0, I can deposit money, buy stuff, and it prints my balance. Every action should also get saved into transactions.txt automatically.
